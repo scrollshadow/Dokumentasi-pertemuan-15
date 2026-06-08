@@ -37,7 +37,7 @@
 using namespace std;
 /**
  * @class Queues
- * @brief class ini untuk operasi lengkap queus
+ * @brief class ini untuk operasi lengkap queues
  *
  *
  */
